@@ -1,4 +1,4 @@
-# Lucas test react native
+# Lucas react native
 
 React-native-cli
 
